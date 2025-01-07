@@ -1,0 +1,38 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2A5D5A;
+}
+.text{
+    width: 636px;
+    height: 116px;
+    text-align: center;
+    align-content: center;
+    font-size: 64px;
+    font-weight: 700;
+    background-color: #311313;
+    color: white;
+    margin: 0 auto;
+}
+.bigbox{
+    width: 1000px;
+    height: 638px;
+    border: 10px solid red;
+    margin: 55px auto;
+    background-color: black;
+    padding: 45px 52px;
+}
+.box{
+    width: 896px;
+    height: 259px;
+    background-color: #1FE887;
+    margin: 0 auto;
+    padding: 54px 40px;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
